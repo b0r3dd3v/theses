@@ -8,3 +8,7 @@ See also
 
 * [Path tracer for the Cover](https://github.com/westerbaan/ndpt)
 * [Homepage of the defences](https://westerbaan.name/promotie)
+
+(* Ore ga to, guys *)
+
+Улёт. Всё, что вы хотели знат про W*-алгебры (и их построение?), но не знали, где спзд.
