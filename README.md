@@ -1,7 +1,7 @@
 Theses of Abraham and Bas Westerbaan
 ====================================
 
-<a href="https://arxiv.org/abs/1804.02203"><img src="bram-cover-preview.jpg" width="300px"/></a> <a href="https://arxiv.org/abs/1803.01911"><img src="0001.png" width="300px"/></a>
+<a href="https://arxiv.org/abs/1804.02203"><img src="https://raw.githubusercontent.com/b0r3dd3v/hurl/master/ccdn0007.jpg" width="300px"/></a> <a href="https://arxiv.org/abs/1803.01911"><img src="0001.png" width="300px"/></a>
 
 See also
 --------
